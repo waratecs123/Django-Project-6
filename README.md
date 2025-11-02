@@ -5,12 +5,12 @@ A minimalist, analog-style web forum inspired by 4chan. This project aims to rec
 
 ## Features
 
-- 🕹️ Retro-inspired UI with ASCII/ANSI art aesthetics
-- 🎭 Full anonymity - no accounts required
-- 📝 Simple text-based posting
-- 🖼️ Image upload support
-- 🧵 Threaded conversations
-- ⚡ Lightweight and fast
+- Retro-inspired UI with ASCII/ANSI art aesthetics
+- Full anonymity - no accounts required
+- Simple text-based posting
+- Image upload support
+- Threaded conversations
+- Lightweight and fast
 
 ## Technologies Used
 
@@ -18,12 +18,6 @@ A minimalist, analog-style web forum inspired by 4chan. This project aims to rec
 - **Backend**: Django
 - **Database**: SQLite3
 - **Deployment**: ----
-
-## Installation
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v14+ recommended)
-- [Your other prerequisites]
 
 ### Setup
 ```bash
